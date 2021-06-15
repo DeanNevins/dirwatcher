@@ -1,0 +1,9 @@
+pythonenv*
+.vscode/
+.venv/
+.env
+.DS_Store
+*.log
+*.txt
+testing/
+testing2/
